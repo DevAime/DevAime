@@ -1,7 +1,7 @@
 
-### Hi 👋, I'm Aimé Muganga, a Data Scientist with a strong interest in machine learning, web development, and quantitative finance, focused on building data-driven solutions that deliver practical and analytical impact.
+I'm Aimé Muganga, a Data Scientist with a strong interest in machine learning, web development, and quantitative finance, focused on building data-driven solutions that deliver practical and analytical impact.
 
-## Professional Summary
+## About Me
 I am currently pursuing a **Bachelor of Science in Data Science and Analytics** with a strong academic and practical interest in **Data Science, Machine Learning, and Web Development**. I am passionate about applying data-driven methods to solve real-world problems, particularly in the fields of **finance and quantitative finance**.
 
 I am currently expanding my expertise in Deep Learning, focusing on developing intelligent and scalable analytical solutions.
@@ -10,13 +10,15 @@ I am currently expanding my expertise in Deep Learning, focusing on developing i
 
 ## Technical Skills
 
-### Programming Languages
-- Python  
-- Java  
-- C++  
-- R  
-- MATLAB  
-- SQL  
+## Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+ 
 
 ### Tools & Technologies
 - Flask  
